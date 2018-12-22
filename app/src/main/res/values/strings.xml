@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string name="cout_switch">%1$s selected posts</string>
+</resources>
